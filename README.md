@@ -7,10 +7,10 @@
 
   
   - uses: Platane/snk@v2
-  with:
+    with:
     # github user name to read the contribution graph from (**required**)
     # using action context var `github.repository_owner` or specified user
-    github_user_name: ${{ @yaahaablyaa}}
+    github_user_name: ${{yaahaablyaa}}
 
     # list of files to generate.
     # one file per line. Each output can be customized with options as query string.
