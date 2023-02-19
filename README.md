@@ -3,30 +3,13 @@
 
 ## I Frontend developer
 - Writing in VS Code
-
-
+- I’m currently learning WePro
 
 <p align="center">
   <img  width="600" src="assets/github-snake.svg" style="" alt="snake"/>
 </p>
 
-<!--
-**yaahaablyaa/yaahaablyaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 ### 💻 I know programming languages ​​like:
-
 <img align="left" alt="HTML5" width="26px" src="./src/img/html.svg" />
 <img align="left" alt="CSS3" width="26px" src="./src/img/css.svg" />
 <img align="left" alt="Sass" width="26px" src="./src/img/sass.svg" />
