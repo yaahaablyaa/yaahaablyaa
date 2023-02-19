@@ -8,8 +8,9 @@
   
 
 <p align="center">
- <img  width="600" src="assets/github-snake.svg" style="" alt="snake"/>
- <div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/dxn6fRlTIShoeBr69N" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/hackernoon-hacker-noon-random-pixels-dxn6fRlTIShoeBr69N">via GIPHY</a></p>
+ - name: generate-snake-game-from-github-contribution-grid
+  uses: Platane/snk@v1.1.4
+
 </p>
 
 <!--
