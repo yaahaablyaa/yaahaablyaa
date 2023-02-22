@@ -2,7 +2,6 @@
 
 
 ## I Frontend developer
-- Writing in VS Code
 - I’m currently learning WePro
 
 <p align="center">
