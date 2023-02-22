@@ -2,7 +2,7 @@
 
 
 ## I Frontend developer
-- I’m currently learning WePro
+- I am currently studying at WePro
 
 <p align="center">
   <img  width="600" src="assets/github-snake.svg" style="" alt="snake"/>
