@@ -4,9 +4,6 @@
 ## I Frontend developer
 - I am currently studying at WePro
 
-<p align="center">
-  <img  width="600" src="assets/github-snake.svg" style="" alt="snake"/>
-</p>
 
 ### 💻 I know programming languages ​​like:
 <img align="left" alt="HTML5" width="26px" src="./src/img/html.svg" />
