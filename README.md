@@ -2,6 +2,9 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yaahaablyaa&theme=github_dark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yaahaablyaa&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
+- name: osu!profile
+  uses: newtykins/osu-profile@1.0.3
+
 ## I Frontend developer
 - I am currently studying at WePro
 
