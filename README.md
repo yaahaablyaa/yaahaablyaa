@@ -1,10 +1,6 @@
-### Hi, i am Asad
+### Hi, I"m Asad Hamrakulov
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yaahaablyaa&theme=github_dark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yaahaablyaa&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-
-## I Frontend developer
-- I am currently studying at WePro
 
 ### 💻 I know programming languages ​​like:
 <img align="left" alt="HTML5" width="26px" src="./src/img/html.svg" />
